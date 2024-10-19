@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![vlsi 1](https://github.com/user-attachments/assets/90eca317-37ed-4867-a05f-281e56d0bd16)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![vlsi 2](https://github.com/user-attachments/assets/09eec345-1ff3-444a-a2cf-290adec53555)
+
 
 
 iv)	Creating the new test cell view
@@ -91,7 +93,8 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+ ![vlsi 3](https://github.com/user-attachments/assets/d2ca062e-64b0-49d3-a896-562ed7d19088)
+
 
 
 
